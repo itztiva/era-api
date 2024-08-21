@@ -1,5 +1,7 @@
 # Era Launcher API
 
+[![Maintained with Bun](https://img.shields.io/badge/maintained%20with-bun-ac98ff.svg?style=for-the-badge&logo=bun)](https://bun.sh/)
+
 To install dependencies:
 
 ```bash
