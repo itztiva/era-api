@@ -15,7 +15,7 @@ export default function () {
                     color: "#e74c3c",
                     name: "Owner",
                 },
-                roles: ["1269682453732397176"],
+                roles: ["1269682453732397176", "1269669403759345696", "1269682357636694127"],
                 username: "Tiva",
                 uuid: "0abcdb06-446c-4a11-9729-5922213a2d6d",
             },
