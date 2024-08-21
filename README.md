@@ -24,7 +24,7 @@ Now you can close out of the Options Menu and go to FiddlerScript
 
 CTRL - A and delete everything in the FiddlerScript Menu and Insert this:
 
-```bash
+```c#
 import System;
 import System.Web;
 import System.Windows.Forms;
