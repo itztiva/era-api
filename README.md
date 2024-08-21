@@ -9,7 +9,7 @@ bun install
 To run:
 
 ```bash
-bun run index.ts
+bun run src/index.ts
 ```
 
 To use this API:
