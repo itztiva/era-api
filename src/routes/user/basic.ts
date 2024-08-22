@@ -7,7 +7,7 @@ export default function () {
                 avatar:
                     "https://cdn.discordapp.com/avatars/942494965219610717/4db010407013ecf8294bff6b69ba4e85",
                 character: {
-                    icon: "https://fortnite-api.com/images/cosmetics/br/cid_001_athena_commando_f_default/icon.png",
+                    icon: "https://fortnite-api.com/images/cosmetics/br/Character_PiperShelf_Pearl/icon.png",
                 },
                 currency: 2800,
                 discord: "942494965219610717",
